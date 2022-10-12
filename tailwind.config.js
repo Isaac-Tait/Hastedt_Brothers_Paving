@@ -15,7 +15,7 @@ module.exports = {
     },
     heroPatterns: {
       topography: heroPatterns.topography,
-      bubbles: heroPatterns.bubbles,
+      intersection: heroPatterns.happyintersection,
       leaf: heroPatterns.leaf,
     },
     extend: {},

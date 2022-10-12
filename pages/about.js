@@ -1,10 +1,8 @@
-//import Link from 'next/link';
-
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 
 const Index = () => (
-  <div className="heropattern-intersection-neutral-100 h-screen">
+  <div className="heropattern-leaf-neutral-100 h-screen">
     <div>
       <Header />
     </div>
